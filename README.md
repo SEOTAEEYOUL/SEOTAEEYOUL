@@ -15,5 +15,5 @@ You can click the Preview link to take a look at your changes.
 | [AWSBasic](https://github.com/SEOTAEEYOUL/AWSBasic)  | | [A-TCL-ChatOps](https://github.com/SEOTAEEYOUL/A-TCL-ChatOps) |
 | [AzureBasic](https://github.com/SEOTAEEYOUL/AzureBasic) | |[A-TCL-Multi-Tenant-Alert](https://github.com/SEOTAEEYOUL/A-TCL-Multi-Tenant-Alert) |   
 | [SpringBootMySQL](https://github.com/SEOTAEEYOUL/SpringBootMySQL) | | [https://github.com/SEOTAEEYOUL/DTv3-7](https://github.com/SEOTAEEYOUL/DTv3-7) |  
-| [SpringBootMongo](https://github.com/SEOTAEEYOUL/SpringBootMongo) | | [GKE)[https://github.com/SEOTAEEYOUL/GKE] |   
+| [SpringBootMongo](https://github.com/SEOTAEEYOUL/SpringBootMongo) | | [GKE](https://github.com/SEOTAEEYOUL/GKE) |   
 | [Node.js](https://github.com/SEOTAEEYOUL/nodejs) | | |  
