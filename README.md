@@ -9,4 +9,12 @@ SEOTAEEYOUL/SEOTAEEYOUL is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-[Python](https://github.com/SEOTAEEYOUL/python)
+[Python](https://github.com/SEOTAEEYOUL/python)  
+[terraform](https://github.com/SEOTAEEYOUL/terraform)  
+[Cloud-Project](https://github.com/SEOTAEEYOUL/Cloud-Project)  
+[Shieldus OSS](https://github.com/SEOTAEEYOUL/Project-S)  
+[AWSBasic](https://github.com/SEOTAEEYOUL/AWSBasic)  
+[AzureBasic](https://github.com/SEOTAEEYOUL/AzureBasic)  
+[SpringBootMySQL](https://github.com/SEOTAEEYOUL/SpringBootMySQL)  
+[SpringBootMongo](https://github.com/SEOTAEEYOUL/SpringBootMongo)  
+[Node.js](https://github.com/SEOTAEEYOUL/nodejs)
