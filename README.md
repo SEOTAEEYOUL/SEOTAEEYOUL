@@ -15,5 +15,7 @@ You can click the Preview link to take a look at your changes.
 | [AWSBasic](https://github.com/SEOTAEEYOUL/AWSBasic)  | [SK Square](https://github.com/SEOTAEEYOUL/AzureLandingZone.SKSQ)  | [A-TCL-ChatOps](https://github.com/SEOTAEEYOUL/A-TCL-ChatOps) |
 | [AzureBasic](https://github.com/SEOTAEEYOUL/AzureBasic) | [DeepAssessment](https://github.com/SEOTAEEYOUL/DeepAssessment) |[A-TCL-Multi-Tenant-Alert](https://github.com/SEOTAEEYOUL/A-TCL-Multi-Tenant-Alert) |   
 | [SpringBootMySQL](https://github.com/SEOTAEEYOUL/SpringBootMySQL) | [Azure LandingZone](https://github.com/SEOTAEEYOUL/AzureLandingZone) | [DTlv3-7](https://github.com/SEOTAEEYOUL/DTv3-7) |  
-| [SpringBootMongo](https://github.com/SEOTAEEYOUL/SpringBootMongo) | | [GKE](https://github.com/SEOTAEEYOUL/GKE) |   
+| [SpringBootMongo](https://github.com/SEOTAEEYOUL/SpringBootMongo) | [BDMS](https://github.com/SEOTAEEYOUL/bdms) | [GKE](https://github.com/SEOTAEEYOUL/GKE) |   
 | [Node.js](https://github.com/SEOTAEEYOUL/nodejs) | | |  
+| [KubernetesAdmin](https://github.com/SEOTAEEYOUL/KubernetesAdmin) | | |
+| [문서](https://github.com/SEOTAEEYOUL/Doc) | | |  
