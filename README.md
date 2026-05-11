@@ -10,8 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 | Study | Project | Co-Work |  
 |:---|:---|:---|  
-| [Terraform](https://github.com/SEOTAEEYOUL/terraform) | [Nova](https://github.com/SEOTAEEYOUL/Nova) | [app.llm-failover
-](https://github.com/SEOTAEEYOUL/app.llm-failover) |     
+| [Terraform](https://github.com/SEOTAEEYOUL/terraform) | [Nova](https://github.com/SEOTAEEYOUL/Nova) | [app.llm-failover](https://github.com/SEOTAEEYOUL/app.llm-failover) |     
 | [Python](https://github.com/SEOTAEEYOUL/python) | [Cloud-Project](https://github.com/SEOTAEEYOUL/Cloud-Project) | [LCL-147](https://github.com/SEOTAEEYOUL/LCL-147) |      
 | [Node.js](https://github.com/SEOTAEEYOUL/nodejs)  | [Shieldus OSS](https://github.com/SEOTAEEYOUL/Project-S) | [LCL-14](https://github.com/SEOTAEEYOUL/LCL-14) | 
 | [SpringBoot](https://github.com/SEOTAEEYOUL/Springboot.git) | [SK Square](https://github.com/SEOTAEEYOUL/AzureLandingZone.SKSQ) | [PyMaeMae](https://github.com/JINYONG-LEE/PyMaeMae)  |   
